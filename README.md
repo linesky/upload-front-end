@@ -1,2 +1,2 @@
 # upload-front-end
-gambas upload interface
+gambas upload interface download text files
